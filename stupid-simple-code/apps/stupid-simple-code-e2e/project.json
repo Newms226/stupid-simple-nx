@@ -1,0 +1,10 @@
+{
+  "name": "stupid-simple-code-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/stupid-simple-code-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["stupid-simple-code"],
+  "// targets": "to see all targets run: nx show project stupid-simple-code-e2e --web",
+  "targets": {}
+}
